@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 个人抓取数据，不进仓库
+reports/
+watchlist.json
+
+# 本地工作区
+.workbuddy-ai/
+_audit_ncm/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 截图临时文件
+*.png
+!docs/*.png
